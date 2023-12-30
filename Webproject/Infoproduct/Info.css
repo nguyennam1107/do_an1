@@ -912,7 +912,7 @@ div:nth-of-type(5) {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: black;
+    background-color: rgb(8, 8, 8);
     z-index: 10;
     position: absolute;
     top: -2px;
@@ -936,7 +936,6 @@ div:nth-of-type(5) {
     font-size: 16px;
     z-index: 20;
 }
-
 ._main_button:hover>p {
     color: #767677;
 }

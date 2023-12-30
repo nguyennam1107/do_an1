@@ -12,9 +12,9 @@ document.body.onload = function () {
 // tạo hiệu ứng chuyển đổi dòng text
 function text_animation() {
     let list = [
-        "HÀNG VIỆT NAM CHẤT LƯỢNG CAO ",
-        "ADDIAS - ĐỒNG HÀNH TRÊN CON ĐƯỜNG CHINH PHỤC",
-        "GIAO HÀNG MIỄN PHÍ CHO CÁC THÀNH VIÊN ADICLUB"
+        "HÀNG UNETI CHẤT LƯỢNG CAO ",
+        "ALADIN- ĐỒNG HÀNH TRÊN CON ĐƯỜNG CHINH PHỤC",
+        "GIAO HÀNG MIỄN PHÍ CHO CÁC THÀNH VIÊN Nhóm 2 DHTI15A21HN"
     ];
     var i = 0;
 

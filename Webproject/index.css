@@ -22,7 +22,33 @@ a {
    color: black;
 }
 
-/* No */
+.search-form {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.search-container {
+   display: flex;
+   margin-right: 10px; /* Adjust margin as needed */
+}
+
+input[type="text"] {
+   padding: 8px;
+}
+
+button {
+   background-color: #3498db; /* Change the background color as needed */
+   color: #fff;
+   border: none;
+   padding: 8px;
+   cursor: pointer;
+}
+
+button i {
+   
+}
+
 .no {
    display:none;
    position: fixed;
